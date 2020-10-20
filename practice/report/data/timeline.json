@@ -1,0 +1,116 @@
+{
+  "uid": "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name": "timeline",
+  "children": [
+    {
+      "name": "LAPTOP-0LHTAQ41",
+      "children": [
+        {
+          "name": "9048-MainThread",
+          "children": [
+            {
+              "name": "测试link功能",
+              "uid": "652f315dbf6af248",
+              "parentUid": "92f10fb3fb6cfb643366a648f00fb1cc",
+              "status": "passed",
+              "time": {
+                "start": 1603087747853,
+                "stop": 1603087747854,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_case2",
+              "uid": "f1ec8a3516faae90",
+              "parentUid": "92f10fb3fb6cfb643366a648f00fb1cc",
+              "status": "passed",
+              "time": {
+                "start": 1603087747761,
+                "stop": 1603087747762,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_login_fail",
+              "uid": "4be18bbe5a1eec95",
+              "parentUid": "92f10fb3fb6cfb643366a648f00fb1cc",
+              "status": "passed",
+              "time": {
+                "start": 1603087747772,
+                "stop": 1603087747773,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_case1",
+              "uid": "b136b87b5ec5e3d9",
+              "parentUid": "92f10fb3fb6cfb643366a648f00fb1cc",
+              "status": "passed",
+              "time": {
+                "start": 1603087747755,
+                "stop": 1603087747755,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "登录",
+              "uid": "8a2ade0b7fcee01a",
+              "parentUid": "92f10fb3fb6cfb643366a648f00fb1cc",
+              "status": "passed",
+              "time": {
+                "start": 1603087747767,
+                "stop": 1603087747767,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_login_noPwd",
+              "uid": "52e58815cfcad9d2",
+              "parentUid": "92f10fb3fb6cfb643366a648f00fb1cc",
+              "status": "failed",
+              "time": {
+                "start": 1603087747784,
+                "stop": 1603087747785,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_login_noUser",
+              "uid": "99e28032440f1755",
+              "parentUid": "92f10fb3fb6cfb643366a648f00fb1cc",
+              "status": "passed",
+              "time": {
+                "start": 1603087747778,
+                "stop": 1603087747778,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            }
+          ],
+          "uid": "92f10fb3fb6cfb643366a648f00fb1cc"
+        }
+      ],
+      "uid": "7aeabc817bbb5f6dc48505307249381e"
+    }
+  ]
+}

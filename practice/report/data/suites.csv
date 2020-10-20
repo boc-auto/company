@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 19 14:09:07 CST 2020","Mon Oct 19 14:09:07 CST 2020","0","","test_a","TestLogin","","","test_login_noUser",""
+"passed","Mon Oct 19 14:09:07 CST 2020","Mon Oct 19 14:09:07 CST 2020","0","","test_a","TestLogin","","","登录",""
+"passed","Mon Oct 19 14:09:07 CST 2020","Mon Oct 19 14:09:07 CST 2020","1","","test_a","TestLogin","","","test_login_fail",""
+"passed","Mon Oct 19 14:09:07 CST 2020","Mon Oct 19 14:09:07 CST 2020","1","","test_b","","","","测试link功能",""
+"passed","Mon Oct 19 14:09:07 CST 2020","Mon Oct 19 14:09:07 CST 2020","1","","test_a","TestSearch","","","test_case2",""
+"passed","Mon Oct 19 14:09:07 CST 2020","Mon Oct 19 14:09:07 CST 2020","0","","test_a","TestSearch","","","test_case1",""
+"failed","Mon Oct 19 14:09:07 CST 2020","Mon Oct 19 14:09:07 CST 2020","1","","test_a","TestLogin","","","test_login_noPwd",""

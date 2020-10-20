@@ -1,0 +1,51 @@
+{
+  "name": "test_case1",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "6b1194f9-a0ce-4441-abb2-8569aecd054c-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1603087747755,
+  "stop": 1603087747755,
+  "uuid": "02b6ad21-64c5-4933-9a8c-a69d8a980013",
+  "historyId": "3146f2f83caef0677e3e1e865635590a",
+  "testCaseId": "7e411f54a04615d5f8d15c7033d05ecb",
+  "fullName": "test_a.TestSearch#test_case1",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "搜索模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_a"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSearch"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-0LHTAQ41"
+    },
+    {
+      "name": "thread",
+      "value": "9048-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_a"
+    }
+  ]
+}

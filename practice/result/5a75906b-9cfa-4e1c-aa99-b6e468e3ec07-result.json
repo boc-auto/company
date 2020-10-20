@@ -1,0 +1,75 @@
+{
+  "name": "登录",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "步骤一：打开应用",
+      "status": "passed",
+      "start": 1603087747767,
+      "stop": 1603087747767
+    },
+    {
+      "name": "步骤二：进入登录页面",
+      "status": "passed",
+      "start": 1603087747767,
+      "stop": 1603087747767
+    },
+    {
+      "name": "步骤三：输入user/password",
+      "status": "passed",
+      "start": 1603087747767,
+      "stop": 1603087747767
+    }
+  ],
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "4172d962-e33f-4f2f-a762-ca9fce7326d3-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1603087747767,
+  "stop": 1603087747767,
+  "uuid": "498c289b-d856-401a-b8ff-8cafc36ac9bc",
+  "historyId": "9b6e6a3fb43f954ad271f79675ff70cd",
+  "testCaseId": "38465ef0e66c2f94652db61a7787aab9",
+  "fullName": "test_a.TestLogin#test_login_succeess",
+  "labels": [
+    {
+      "name": "story",
+      "value": "登录成功"
+    },
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_a"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-0LHTAQ41"
+    },
+    {
+      "name": "thread",
+      "value": "9048-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_a"
+    }
+  ]
+}

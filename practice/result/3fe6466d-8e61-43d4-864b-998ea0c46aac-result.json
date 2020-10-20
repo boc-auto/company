@@ -1,0 +1,43 @@
+{
+  "name": "测试link功能",
+  "status": "passed",
+  "start": 1603087747853,
+  "stop": 1603087747854,
+  "uuid": "b3a6dbfc-0792-4098-91f0-cf01784b9e65",
+  "historyId": "d74674c3e587bb7253552f50be333796",
+  "testCaseId": "6b4e72cb3f19d83b6e697cf3863b3328",
+  "fullName": "test_b#test_with_testcase_link",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_b"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-0LHTAQ41"
+    },
+    {
+      "name": "thread",
+      "value": "9048-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_b"
+    }
+  ],
+  "links": [
+    {
+      "type": "test_case",
+      "url": "http://172.17.33.152:88",
+      "name": "link测试"
+    }
+  ]
+}

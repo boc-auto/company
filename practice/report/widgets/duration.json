@@ -1,0 +1,79 @@
+[
+  {
+    "uid": "99e28032440f1755",
+    "name": "test_login_noUser",
+    "time": {
+      "start": 1603087747778,
+      "stop": 1603087747778,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8a2ade0b7fcee01a",
+    "name": "登录",
+    "time": {
+      "start": 1603087747767,
+      "stop": 1603087747767,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4be18bbe5a1eec95",
+    "name": "test_login_fail",
+    "time": {
+      "start": 1603087747772,
+      "stop": 1603087747773,
+      "duration": 1
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "652f315dbf6af248",
+    "name": "测试link功能",
+    "time": {
+      "start": 1603087747853,
+      "stop": 1603087747854,
+      "duration": 1
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f1ec8a3516faae90",
+    "name": "test_case2",
+    "time": {
+      "start": 1603087747761,
+      "stop": 1603087747762,
+      "duration": 1
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b136b87b5ec5e3d9",
+    "name": "test_case1",
+    "time": {
+      "start": 1603087747755,
+      "stop": 1603087747755,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "52e58815cfcad9d2",
+    "name": "test_login_noPwd",
+    "time": {
+      "start": 1603087747784,
+      "stop": 1603087747785,
+      "duration": 1
+    },
+    "status": "failed",
+    "severity": "normal"
+  }
+]

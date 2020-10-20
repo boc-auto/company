@@ -1,0 +1,83 @@
+{
+  "name": "test_login_noPwd",
+  "status": "failed",
+  "statusDetails": {
+    "message": "AssertionError: assert '1' == 1",
+    "trace": "self = <test_a.TestLogin object at 0x0000011895CA1130>\n\n    @allure.story('密码缺失')\n    def test_login_noPwd(self):\n        with allure.step(\"点击用户名\"):\n            print(\"输入用户名\")\n        with allure.step(\"点击密码\"):\n            print('输入密码')\n        print('点击登录')\n        with allure.step(\"点击登录之后失败\"):\n>           assert '1' == 1\nE           AssertionError: assert '1' == 1\n\ntest_a.py:47: AssertionError"
+  },
+  "steps": [
+    {
+      "name": "点击用户名",
+      "status": "passed",
+      "start": 1603087747784,
+      "stop": 1603087747784
+    },
+    {
+      "name": "点击密码",
+      "status": "passed",
+      "start": 1603087747784,
+      "stop": 1603087747784
+    },
+    {
+      "name": "点击登录之后失败",
+      "status": "failed",
+      "statusDetails": {
+        "message": "AssertionError: assert '1' == 1\n",
+        "trace": "  File \"D:\\Project\\pythonProject\\Mytest2\\practice\\test_a.py\", line 47, in test_login_noPwd\n    assert '1' == 1\n"
+      },
+      "start": 1603087747784,
+      "stop": 1603087747785
+    }
+  ],
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "ffa7a2b7-53a8-4b17-91e0-cee593bd445c-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1603087747784,
+  "stop": 1603087747785,
+  "uuid": "67eef601-26dc-4bdb-afb6-72cecfb67721",
+  "historyId": "8ed0c5a578d2cca8b46343229327ceac",
+  "testCaseId": "cff9ead339ba5099e9f09e090212610f",
+  "fullName": "test_a.TestLogin#test_login_noPwd",
+  "labels": [
+    {
+      "name": "story",
+      "value": "密码缺失"
+    },
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_a"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-0LHTAQ41"
+    },
+    {
+      "name": "thread",
+      "value": "9048-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_a"
+    }
+  ]
+}
